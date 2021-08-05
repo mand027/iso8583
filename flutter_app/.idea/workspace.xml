@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="523c74a4-765b-448c-a0d8-20288cf8d091" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_3_API_R" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1wH9BAvrFydAK4YTfpQDYpWNi8p" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="523c74a4-765b-448c-a0d8-20288cf8d091" name="Default Changelist" comment="" />
+      <created>1628104508543</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628104508543</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="450" height="466" key="DebuggerActiveHint" timestamp="1628118203490">
+      <screen x="0" y="25" width="1280" height="775" />
+    </state>
+    <state width="450" height="466" key="DebuggerActiveHint/0.25.1280.775@0.25.1280.775" timestamp="1628118203490" />
+    <state width="888" height="262" key="GridCell.Tab.0.bottom" timestamp="1628116156043">
+      <screen x="0" y="25" width="1280" height="775" />
+    </state>
+    <state width="888" height="262" key="GridCell.Tab.0.bottom/0.25.1280.775@0.25.1280.775" timestamp="1628116156043" />
+    <state width="888" height="262" key="GridCell.Tab.0.center" timestamp="1628116156042">
+      <screen x="0" y="25" width="1280" height="775" />
+    </state>
+    <state width="888" height="262" key="GridCell.Tab.0.center/0.25.1280.775@0.25.1280.775" timestamp="1628116156042" />
+    <state width="888" height="262" key="GridCell.Tab.0.left" timestamp="1628116156042">
+      <screen x="0" y="25" width="1280" height="775" />
+    </state>
+    <state width="888" height="262" key="GridCell.Tab.0.left/0.25.1280.775@0.25.1280.775" timestamp="1628116156042" />
+    <state width="888" height="262" key="GridCell.Tab.0.right" timestamp="1628116156043">
+      <screen x="0" y="25" width="1280" height="775" />
+    </state>
+    <state width="888" height="262" key="GridCell.Tab.0.right/0.25.1280.775@0.25.1280.775" timestamp="1628116156043" />
+    <state x="354" y="159" key="IDE.errors.dialog" timestamp="1628125880475">
+      <screen x="0" y="25" width="1280" height="775" />
+    </state>
+    <state x="354" y="159" key="IDE.errors.dialog/0.25.1280.775@0.25.1280.775" timestamp="1628125880474" />
+    <state x="292" y="169" width="696" height="486" key="find.popup" timestamp="1628119224842">
+      <screen x="0" y="25" width="1280" height="775" />
+    </state>
+    <state x="292" y="169" width="696" height="486" key="find.popup/0.25.1280.775@0.25.1280.775" timestamp="1628119224842" />
+  </component>
+</project>
