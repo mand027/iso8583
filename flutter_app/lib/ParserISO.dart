@@ -52,15 +52,22 @@ class ParserISO{
 
   void parseHeader(){
     datosGuardados.productIndicator = header.substring(0,2);
+    print(datosGuardados.productIndicator)
     datosGuardados.releaseNumber = header.substring(2,4);
+    print(datosGuardados.releaseNumber)
     datosGuardados.status = header.substring(4,7);
+    print(datosGuardados.status)
     datosGuardados.originatorCode = header.substring(7,8);
+    print(datosGuardados.originatorCode)
     datosGuardados.responderCode = header.substring(8,9);
+    print(datosGuardados.responderCode)
   }
 
   void parseMTI(){
     datosGuardados.tipoP1 = tipo.substring(0,2);
+    print(datosGuardados.tipoP1)
     datosGuardados.tipoP2 = tipo.substring(2,4);
+    print(datosGuardados.tipoP2)
   }
 
   void parseBitMap(){
@@ -74,6 +81,7 @@ class ParserISO{
     parseData(binary);
   }
 
+  //falto afinar el resultado pero ya parsea todos los datos dependiendo el bitMap
   void parseData(binary){
     var offset = 0;
     var howManyToCut = 0;
